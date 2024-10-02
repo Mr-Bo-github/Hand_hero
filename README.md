@@ -28,7 +28,7 @@
 - 软件仅供学习，不得用于商业用途，请在下载后 24 小时内删除！
 
 ## 10. 官网
-- [官网链接]([https://www.xygzs.cp](https://qwe12345.rth1.xyz/server/Hand_hero))
+- [官网链接](https://qwe12345.rth1.xyz/server/Hand_hero)
 
 ## 版本号
 - 8.3
